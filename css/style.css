@@ -17,6 +17,12 @@ h2 {
     margin-left: auto;
 }
 
+h3 {    
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-left: auto;
+}
+
 p {
     font-family: 'Raleway', sans-serif;
     color: white;
@@ -51,9 +57,26 @@ input[type="submit"] {
     box-sizing: border-box;
 }
 
+item {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-left: auto;    
+}
+
+li {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-left: auto;    
+}
 
 img {
    max-width: 600px;
+}
+
+a img {
+    height: auto;
+    width: 45px;
+    margin-top: -8px;
 }
 
 .center-block {
